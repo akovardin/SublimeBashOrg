@@ -1,0 +1,10 @@
+[
+{
+	"id": "tools",
+	"children":
+	[
+	    {"id": "wrap"},
+	    { "command": "bash_org_ru" }
+	]
+}
+]
