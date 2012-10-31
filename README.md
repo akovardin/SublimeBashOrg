@@ -14,4 +14,4 @@ File ".\xml\dom\expatbuilder.py", line 32, in
 File ".\xml\parsers\expat.py", line 4, in 
 ImportError: No module named pyexpat
 </pre>
- то, возмжно, таже проблема, как [тут]()
+ то, возмжно, таже проблема, как [тут](https://github.com/Kindari/SublimeXdebug)
